@@ -1,10 +1,10 @@
-# STATUT STOWARZYSZENIA WARSZAWSKI HACKERSPACE
+# STATUT STOWARZYSZENIA HAKIERSPEJS ŁÓDŹ
 
 ## ROZDZIAŁ I - POSTANOWIENIA OGÓLNE
 
-Stowarzyszenie nosi nazwę “Warszawski Hackerspace”, w skrócie “Hackerspace”, w języku angielskim “Warsaw Hackerspace”, w dalszych postanowieniach zwane Stowarzyszeniem.
+Stowarzyszenie nosi nazwę “Hakierspejs”, w skrócie “Hakierspejs”, w języku angielskim “Hackerspace Łódź”, w dalszych postanowieniach zwane Stowarzyszeniem.
 
-Terenem działania Stowarzyszenia jest Rzeczpospolita Polska, a siedzibą jest miasto stołeczne Warszawa.
+Terenem działania Stowarzyszenia jest Rzeczpospolita Polska, a siedzibą jest miasto Łódź.
 
 Dla realizacji celów statutowych stowarzyszenie może działać na terenie innych państw z poszanowaniem tamtejszego prawa.
 
