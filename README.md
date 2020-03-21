@@ -1,8 +1,6 @@
-STATUT STOWARZYSZENIA WARSZAWSKI HACKERSPACE
+# STATUT STOWARZYSZENIA WARSZAWSKI HACKERSPACE
 
-ROZDZIAŁ I - POSTANOWIENIA OGÓLNE
-
-
+## ROZDZIAŁ I - POSTANOWIENIA OGÓLNE
 
 Stowarzyszenie nosi nazwę “Warszawski Hackerspace”, w skrócie “Hackerspace”, w języku angielskim “Warsaw Hackerspace”, w dalszych postanowieniach zwane Stowarzyszeniem.
 
@@ -20,7 +18,7 @@ Członkami Stowarzyszenia mogą być cudzoziemcy, włącznie z osobami nie mają
 
 
 
-ROZDZIAŁ II - CELE I ŚRODKI DZIAŁANIA
+## ROZDZIAŁ II - CELE I ŚRODKI DZIAŁANIA
 
 
 
@@ -48,7 +46,7 @@ i) współpracę z krajowymi i zagranicznymi organizacjami.
 
 
 
-ROZDZIAŁ III - CZŁONKOWIE – PRAWA I OBOWIĄZKI
+### ROZDZIAŁ III - CZŁONKOWIE – PRAWA I OBOWIĄZKI
 
 
 
@@ -116,7 +114,7 @@ Od uchwały Zarządu w sprawie pozbawienia członkostwa zainteresowanemu przysł
 
 
 
-ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
+## ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
 
 
 
@@ -228,7 +226,7 @@ W razie gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w czasie trwania k
 
 
 
-ROZDZIAŁ V - MAJĄTEK I FUNDUSZE
+## ROZDZIAŁ V - MAJĄTEK I FUNDUSZE
 
 
 
@@ -266,7 +264,7 @@ b) upoważniony jest każdy członek zarządu działający samodzielnie, jeżeli
 
 
 
-ROZDZIAŁ VI - POSTANOWIENIA KOŃCOWE
+## ROZDZIAŁ VI - POSTANOWIENIA KOŃCOWE
 
 
 
