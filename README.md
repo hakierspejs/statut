@@ -2,7 +2,7 @@
 
 ## ROZDZIAŁ I - POSTANOWIENIA OGÓLNE
 
-Stowarzyszenie nosi nazwę “Hakierspejs”, w skrócie “Hakierspejs”, w języku angielskim “Hackerspace Łódź”, w dalszych postanowieniach zwane Stowarzyszeniem.
+Stowarzyszenie nosi nazwę “Hakierspejs Łódź”, w skrócie “HSŁ”, w języku angielskim “Hackerspace Łódź”, w dalszych postanowieniach zwane Stowarzyszeniem.
 
 Terenem działania Stowarzyszenia jest Rzeczpospolita Polska, a siedzibą jest miasto Łódź.
 
