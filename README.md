@@ -12,15 +12,11 @@ Stowarzyszenie jest zawiązane na czas nieograniczony. Posiada osobowość prawn
 
 Stowarzyszenie może być członkiem innych krajowych i międzynarodowych organizacji o podobnych celach.
 
-Działalność Stowarzyszenia oparta jest przede wszystkim na pracy społecznej członków. Do prowadzenia swych spraw stowarzyszenie może zatrudniać pracowników.
+Działalność Stowarzyszenia oparta jest przede wszystkim na pracy społecznej członków. **Do prowadzenia swych spraw stowarzyszenie może zatrudniać pracowników.**
 
 Członkami Stowarzyszenia mogą być cudzoziemcy, włącznie z osobami nie mającymi miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej.
 
-
-
 ## ROZDZIAŁ II - CELE I ŚRODKI DZIAŁANIA
-
-
 
 Celem Stowarzyszenia jest upowszechnianie wiedzy, wspieranie innowacyjności oraz rozwój intersydcyplinarnych badań, prac naukowo-badawczych i działań kulturalnych oraz artystycznych.
 
@@ -44,11 +40,7 @@ h) integrację środowiska akademickiego, naukowego i przemysłowego,
 
 i) współpracę z krajowymi i zagranicznymi organizacjami.
 
-
-
 ### ROZDZIAŁ III - CZŁONKOWIE – PRAWA I OBOWIĄZKI
-
-
 
 Członkami Stowarzyszenia mogą być osoby fizyczne i prawne.
 
@@ -112,11 +104,7 @@ d) śmierci członka oraz utraty osobowości prawnej przez osoby prawne.
 
 Od uchwały Zarządu w sprawie pozbawienia członkostwa zainteresowanemu przysługuje odwołanie do Walnego Zgromadzenia Członków. Odwołanie powinno zostać przekazane Zarządowi w formie pisemnej w terminie 14 dni od chwili poinformowania zainteresowanego o treści uchwały Zarządu. Uchwała Walnego Zgromadzenia Członków jest ostateczna i wchodzi w życie w trybie natychmiastowym.
 
-
-
 ## ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
-
-
 
 Władzami Stowarzyszenia są:
 
@@ -144,9 +132,9 @@ Aby Walne Zgromadzenie Członków mogło się rozpocząć w pierwszym terminie w
 
 Oba terminy Walnego Zgromadzenia Członków nie mogą być odległe bardziej niż 14 dni kalendarzowych.
 
-Walne Zgromadzenie Członków zwyczajne jest zwoływane nie rzadziej niż raz na dwa lata przez Zarząd Stowarzyszenia w siedzibie stowarzyszenia. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 14 dni przed pierwszym terminem zebrania.
+Walne Zgromadzenie Członków zwyczajne jest zwoływane nie rzadziej niż raz na dwa lata przez Zarząd Stowarzyszenia ~~w siedzibie stowarzyszenia~~. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 14 dni przed pierwszym terminem zebrania.
 
-Walne Zgromadzenie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie stowarzyszenia. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia. Pierwszy termin Walnego Zgromadzenia Członków nadzwyczajnego powinien być określony na niepoźniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zgromadzenie obraduje nad sprawami, dla których zostało zwołane.
+Walne Zgromadzenie Członków nadzwyczajne może się odbyć w każdym czasie ~~w siedzibie stowarzyszenia~~. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia. Pierwszy termin Walnego Zgromadzenia Członków nadzwyczajnego powinien być określony na niepoźniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zgromadzenie obraduje nad sprawami, dla których zostało zwołane.
 
 Uchwały Walnego Zgromadzenia Członków zapadają zwykłą większością głosów w trybie głosowania jawnego lub, na żądanie dowolnego uczestnika, tajnego.
 
@@ -216,19 +204,15 @@ b) składanie wniosków z kontroli na Walnym Zgromadzeniu Członków,
 
 c) prawo wystąpienia z wnioskiem o zwołanie Walnego Zgromadzenia Członków oraz zebrania Zarządu,
 
-d) składanie wniosków o absolutorium dla Zarządu Stowarzyszenia,
+**d) składanie wniosków o absolutorium dla Zarządu Stowarzyszenia,**
 
 e) składanie sprawozdań ze swojej działalności na Walnym Zgromadzeniu Członków,
 
-f) zatwierdzanie rocznego sprawozdania finansowego.
+**f) zatwierdzanie rocznego sprawozdania finansowego.**
 
 W razie gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji uzupełnienie ich składu może nastąpić w drodze kooptacji spośród członków zwyczajnych stowarzyszenia, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu.
 
-
-
 ## ROZDZIAŁ V - MAJĄTEK I FUNDUSZE
-
-
 
 Majątek Stowarzyszenia powstaje z:
 
@@ -238,7 +222,7 @@ b) subwencji, darowizn, spadków i zapisów,
 
 c) wpływów z odpłatnej działalności statutowej,
 
-d) wpływów z działalności gospodarczej,
+**d) wpływów z działalności gospodarczej,**
 
 e) wpływów z ofiarności publicznej,
 
@@ -250,7 +234,7 @@ h) wpływów z loterii, aukcji i sponsoringu,
 
 i) zbiórek publicznych.
 
-Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami.
+**Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami.**
 
 Organem kompetentnym w zakresie zarządzania majątkiem Stowarzyszenia jest Zarząd.
 
@@ -262,15 +246,10 @@ a) upoważnionych jest dowolnych dwóch członków Zarządu działających łąc
 
 b) upoważniony jest każdy członek zarządu działający samodzielnie, jeżeli wysokość podejmowanego zobowiązania nie przekracza 1024 PLN.
 
-
-
 ## ROZDZIAŁ VI - POSTANOWIENIA KOŃCOWE
-
-
 
 Uchwałę w sprawie zmiany Statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zgromadzenie Członków kwalifikowaną większością głosów (2/3), przy obecności co najmniej połowy łącznej liczby członków Stowarzyszenia uprawnionych do głosowania, stanowiących kworum.
 
 Podejmując uchwałę o rozwiązaniu Stowarzyszenia Walne Zgromadzenie Członków określa sposób jego likwidacji oraz przeznaczenie majątku Stowarzyszenia.
 
-W sprawach nie uregulowanych w niniejszym statucie zastosowanie mają przepisy ustawy Prawo o Stowarzyszeniach.
-
+W sprawach nieuregulowanych w niniejszym statucie zastosowanie mają przepisy ustawy Prawo o Stowarzyszeniach.
