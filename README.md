@@ -82,11 +82,9 @@ d) biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia,
 
 Członkowie Zwyczajni mają obowiązek:
 
-a) aktywnego udziału w działalności Stowarzyszenia i realizacji jego celów,
+a) przestrzegania statutu i uchwał władz Stowarzyszenia,
 
-b) przestrzegania statutu i uchwał władz Stowarzyszenia,
-
-c) regularnego opłacania składek.
+b) regularnego opłacania składek.
 
 Członkowie Wspierający nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak dobrowolnie brać udział z głosem doradczym w statutowych władzach Stowarzyszenia, poza tym posiadają takie prawa jak członkowie zwyczajni.
 
