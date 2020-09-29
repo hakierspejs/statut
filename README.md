@@ -22,7 +22,7 @@ Członkami Stowarzyszenia mogą być cudzoziemcy, włącznie z osobami nie mają
 
 
 
-Celem Stowarzyszenia jest upowszechnianie wiedzy, wspieranie innowacyjności oraz rozwój intersydcyplinarnych badań, prac naukowo-badawczych i działań kulturalnych oraz artystycznych.
+Celem Stowarzyszenia jest upowszechnianie wiedzy, popagowanie wolnej kultury i otwartego oprogramowania (+praw obywatelskich? [szyfrowanie, cenzura internetu, te sprawy]), wspieranie innowacyjności oraz rozwój intersydcyplinarnych badań, prac naukowo-badawczych i działań kulturalnych oraz artystycznych.
 
 Stowarzyszenie swe cele realizuje poprzez:
 
