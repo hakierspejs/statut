@@ -50,7 +50,7 @@ i) współpracę z krajowymi i zagranicznymi organizacjami.
 
 
 
-Członkami Stowarzyszenia mogą być osoby fizyczne i prawne.
+Członkami Stowarzyszenia mogą być osoby fizyczne.
 
 Stowarzyszenie posiada członków:
 
