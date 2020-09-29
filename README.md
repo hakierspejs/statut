@@ -78,7 +78,7 @@ b) udziału w zebraniach, wykładach oraz imprezach organizowanych przez Stowarz
 
 c) zgłaszania wniosków dotyczących działalności Stowarzyszenia,
 
-d) biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia,
+d) biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia.
 
 Członkowie Zwyczajni mają obowiązek:
 
