@@ -64,6 +64,8 @@ a) złoży deklarację członkowską na piśmie,
 
 b) przedstawi pozytywną opinię co najmniej jednego członka zwyczajnego Stowarzyszenia.
 
+c) uiści opłatę członkowską
+
 Osoba fizyczna staje się członkiem zwyczajnym stowarzyszenia po zaakceptowaniu pisemnej deklaracji członkowskiej uchwałą Zarządu Stowarzyszenia.
 
 Członkiem Wspierającym Stowarzyszenia może być każda osoba fizyczna lub prawna, po złożeniu i zaakceptowaniu pisemnej deklaracji członkowskiej uchwałą Zarządu Stowarzyszenia.
