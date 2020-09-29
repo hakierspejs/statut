@@ -146,7 +146,13 @@ Oba terminy Walnego Zgromadzenia Członków nie mogą być odległe bardziej ni�
 
 Walne Zgromadzenie Członków zwyczajne jest zwoływane nie rzadziej niż raz na dwa lata przez Zarząd Stowarzyszenia w siedzibie stowarzyszenia. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 14 dni przed pierwszym terminem zebrania.
 
-Walne Zgromadzenie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie stowarzyszenia. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia. Pierwszy termin Walnego Zgromadzenia Członków nadzwyczajnego powinien być określony na niepoźniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zgromadzenie obraduje nad sprawami, dla których zostało zwołane.
+Walne Zgromadzenie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie stowarzyszenia. 
+
+Zarząd z inicjatywy własnej lub na wniosek:
+- Komisji Rewizyjnej,
+- pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych lub co najmniej dziesięciu członków zwyczajnych Stowarzyszenia zwołuje Nadzwyczajne Walne Zebranie członków.
+
+Pierwszy termin Walnego Zgromadzenia Członków nadzwyczajnego powinien być określony na niepoźniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zgromadzenie obraduje nad sprawami, dla których zostało zwołane.
 
 Uchwały Walnego Zgromadzenia Członków zapadają zwykłą większością głosów w trybie głosowania jawnego lub, na żądanie dowolnego uczestnika, tajnego.
 
