@@ -76,9 +76,9 @@ a) korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszeni
 
 b) udziału w zebraniach, wykładach oraz imprezach organizowanych przez Stowarzyszenie,
 
-c) zgłaszania wniosków dotyczących działalności Stowarzyszenia.
+c) zgłaszania wniosków dotyczących działalności Stowarzyszenia,
 
-d) biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia,
+d) biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia.
 
 Członkowie Zwyczajni mają obowiązek:
 
