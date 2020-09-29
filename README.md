@@ -14,7 +14,7 @@ Stowarzyszenie może być członkiem innych krajowych i międzynarodowych organi
 
 Działalność Stowarzyszenia oparta jest przede wszystkim na pracy społecznej członków. Do prowadzenia swych spraw stowarzyszenie może zatrudniać pracowników.
 
-Członkami Stowarzyszenia mogą być cudzoziemcy, włącznie z osobami nie mającymi miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej.
+Członkami Stowarzyszenia mogą być obywatele polscy oraz cudzoziemcy, włącznie z osobami nie mającymi miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej.
 
 
 
