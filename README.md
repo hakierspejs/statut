@@ -88,6 +88,8 @@ b) przestrzegania statutu i uchwał władz Stowarzyszenia,
 
 c) regularnego opłacania składek.
 
+Zarząd może w uzasadnionych przypadkach czasowo zwolnić określonego członka z konieczności płacenia składek.
+
 Członkowie Wspierający nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak dobrowolnie brać udział z głosem doradczym w statutowych władzach Stowarzyszenia, poza tym posiadają takie prawa jak członkowie zwyczajni.
 
 Członek Wspierający ma obowiązek wywiązywania się z zadeklarowanych świadczeń, przestrzegania statutu oraz uchwał władz Stowarzyszenia.
