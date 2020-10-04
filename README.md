@@ -62,9 +62,9 @@ Członkiem Zwyczajnym Stowarzyszenia może być każda osoba fizyczna, która sp
 
 a) złoży deklarację członkowską na piśmie,
 
-b) przedstawi pozytywną opinię co najmniej jednego członka zwyczajnego Stowarzyszenia.
+b) przedstawi pozytywną opinię co najmniej jednego członka zwyczajnego Stowarzyszenia,
 
-c) uiści opłatę członkowską
+c) uiści opłatę członkowską.
 
 Osoba fizyczna staje się członkiem zwyczajnym stowarzyszenia po zaakceptowaniu pisemnej deklaracji członkowskiej uchwałą Zarządu Stowarzyszenia.
 
