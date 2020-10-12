@@ -142,7 +142,7 @@ Walne Zgromadzenie Członków może być zwyczajne i nadzwyczajne.
 
 Dla zwołania Walnego Zgromadzenia Członków podaje się dwa terminy. Jeśli w pierwszym terminie nie zbierze się kworum Walne Zgromadzenie Członków odbywa się w drugim terminie.
 
-Aby Walne Zgromadzenie Członków mogło się rozpocząć w pierwszym terminie wymagane jest kworum, czyli obecność conajmniej połowy ogólnej liczby zwyczajnych członków Stowarzyszenia. W drugim terminie kworum nie jest wymagane.
+Aby Walne Zgromadzenie Członków mogło się rozpocząć w pierwszym terminie wymagane jest kworum, czyli obecność co najmniej połowy ogólnej liczby zwyczajnych członków Stowarzyszenia. W drugim terminie kworum nie jest wymagane.
 
 Oba terminy Walnego Zgromadzenia Członków nie mogą być odległe bardziej niż 14 dni kalendarzowych.
 
