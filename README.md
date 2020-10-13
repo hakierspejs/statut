@@ -84,11 +84,9 @@ d) biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia.
 
 Członkowie Zwyczajni mają obowiązek:
 
-a) aktywnego udziału w działalności Stowarzyszenia i realizacji jego celów,
+a) przestrzegania statutu i uchwał władz Stowarzyszenia,
 
-b) przestrzegania statutu i uchwał władz Stowarzyszenia,
-
-c) regularnego opłacania składek.
+b) regularnego opłacania składek.
 
 Zarząd może w uzasadnionych przypadkach czasowo zwolnić określonego członka z konieczności płacenia składek.
 
