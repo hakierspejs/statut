@@ -64,7 +64,7 @@ a) złoży deklarację członkowską na piśmie,
 
 b) przedstawi pozytywną opinię co najmniej jednego członka zwyczajnego Stowarzyszenia,
 
-c) uiści miesięczną składkę.
+c) uiści składkę członkowską.
 
 Osoba fizyczna staje się członkiem zwyczajnym stowarzyszenia po zaakceptowaniu pisemnej deklaracji członkowskiej uchwałą Zarządu Stowarzyszenia.
 
