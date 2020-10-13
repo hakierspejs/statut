@@ -6,13 +6,13 @@ Stowarzyszenie nosi nazwę “Hakierspejs Łódź”, w skrócie “HSŁ”, w j
 
 Terenem działania Stowarzyszenia jest Rzeczpospolita Polska, a siedzibą jest miasto Łódź.
 
-Dla realizacji celów statutowych stowarzyszenie może działać na terenie innych państw z poszanowaniem tamtejszego prawa.
+Dla realizacji celów statutowych Stowarzyszenie może działać na terenie innych państw z poszanowaniem tamtejszego prawa.
 
 Stowarzyszenie jest zawiązane na czas nieograniczony. Posiada osobowość prawną. Działa na podstawie przepisów ustawy z dnia 7 kwietnia 1989 r. Prawo o Stowarzyszeniach (Dz.U. z 2001, Nr 79, poz. 855 z późn. zm.) oraz niniejszego statutu.
 
 Stowarzyszenie może być członkiem innych krajowych i międzynarodowych organizacji o podobnych celach.
 
-Działalność Stowarzyszenia oparta jest przede wszystkim na pracy społecznej członków. Do prowadzenia swych spraw stowarzyszenie może zatrudniać pracowników.
+Działalność Stowarzyszenia oparta jest przede wszystkim na pracy społecznej członków. Do prowadzenia swych spraw Stowarzyszenie może zatrudniać pracowników.
 
 Członkami Stowarzyszenia mogą być obywatele polscy oraz cudzoziemcy, włącznie z osobami nie mającymi miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej.
 
@@ -22,7 +22,7 @@ Członkami Stowarzyszenia mogą być obywatele polscy oraz cudzoziemcy, włączn
 
 
 
-Celem Stowarzyszenia jest upowszechnianie wiedzy, wspieranie innowacyjności oraz rozwój intersydcyplinarnych badań, prac naukowo-badawczych i działań kulturalnych oraz artystycznych.
+Celem Stowarzyszenia jest upowszechnianie wiedzy, wspieranie innowacyjności oraz rozwój interdyscyplinarnych badań, prac naukowo-badawczych i działań kulturalnych oraz artystycznych.
 
 Stowarzyszenie swe cele realizuje poprzez:
 
@@ -64,13 +64,13 @@ a) złoży deklarację członkowską na piśmie,
 
 b) przedstawi pozytywną opinię co najmniej jednego członka zwyczajnego Stowarzyszenia.
 
-Osoba fizyczna staje się członkiem zwyczajnym stowarzyszenia po zaakceptowaniu pisemnej deklaracji członkowskiej uchwałą Zarządu Stowarzyszenia.
+Osoba fizyczna staje się członkiem zwyczajnym Stowarzyszenia po zaakceptowaniu pisemnej deklaracji członkowskiej uchwałą Zarządu Stowarzyszenia.
 
 Członkiem Wspierającym Stowarzyszenia może być każda osoba fizyczna lub prawna, po złożeniu i zaakceptowaniu pisemnej deklaracji członkowskiej uchwałą Zarządu Stowarzyszenia.
 
 Członek Wspierający Stowarzyszenia będący osobą prawną może zadeklarować pomoc finansową, rzeczową lub merytoryczną w realizacji celów Stowarzyszenia, w formie i wielkości uzgodnionej z Zarządem Stowarzyszenia, potwierdzonej umową.
 
-Członkowie Zwyczajni mają prawo:
+Członkowie Zwyczajni mają prawo do:
 
 a) korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia,
 
@@ -90,7 +90,7 @@ c) regularnego opłacania składek.
 
 Zarząd może w uzasadnionych przypadkach czasowo zwolnić określonego członka z konieczności płacenia składek.
 
-Członkowie Wspierający nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak dobrowolnie brać udział z głosem doradczym w statutowych władzach Stowarzyszenia, poza tym posiadają takie prawa jak członkowie zwyczajni.
+Członkowie Wspierający nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak dobrowolnie brać udział z głosem doradczym w statutowych władzach Stowarzyszenia, poza tym posiadają takie prawa, jak członkowie zwyczajni.
 
 Członek Wspierający ma obowiązek wywiązywania się z zadeklarowanych świadczeń, przestrzegania statutu oraz uchwał władz Stowarzyszenia.
 
@@ -140,15 +140,15 @@ b) z głosem doradczym – członkowie wspierający oraz zaproszeni goście.
 
 Walne Zgromadzenie Członków może być zwyczajne i nadzwyczajne.
 
-Dla zwołania Walnego Zgromadzenia Członków podaje się dwa terminy. Jeśli w pierwszym terminie nie zbierze się kworum Walne Zgromadzenie Członków odbywa się w drugim terminie.
+Dla zwołania Walnego Zgromadzenia Członków podaje się dwa terminy. Jeśli w pierwszym terminie nie zbierze się kworum, Walne Zgromadzenie Członków odbywa się w drugim terminie.
 
-Aby Walne Zgromadzenie Członków mogło się rozpocząć w pierwszym terminie wymagane jest kworum, czyli obecność conajmniej połowy ogólnej liczby zwyczajnych członków Stowarzyszenia. W drugim terminie kworum nie jest wymagane.
+Aby Walne Zgromadzenie Członków mogło się rozpocząć w pierwszym terminie, wymagane jest kworum, czyli obecność co najmniej połowy ogólnej liczby zwyczajnych członków Stowarzyszenia. W drugim terminie kworum nie jest wymagane.
 
 Oba terminy Walnego Zgromadzenia Członków nie mogą być odległe bardziej niż 14 dni kalendarzowych.
 
-Walne Zgromadzenie Członków zwyczajne jest zwoływane nie rzadziej niż raz na dwa lata przez Zarząd Stowarzyszenia w siedzibie stowarzyszenia. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 14 dni przed pierwszym terminem zebrania.
+Walne Zgromadzenie Członków zwyczajne jest zwoływane nie rzadziej niż raz na dwa lata przez Zarząd Stowarzyszenia w siedzibie Stowarzyszenia. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 14 dni przed pierwszym terminem zebrania.
 
-Walne Zgromadzenie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie stowarzyszenia. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia. Pierwszy termin Walnego Zgromadzenia Członków nadzwyczajnego powinien być określony na niepoźniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zgromadzenie obraduje nad sprawami, dla których zostało zwołane.
+Walne Zgromadzenie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie Stowarzyszenia. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia. Pierwszy termin Walnego Zgromadzenia Członków nadzwyczajnego powinien być określony na nie późniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zgromadzenie obraduje nad sprawami, dla których zostało zwołane.
 
 Uchwały Walnego Zgromadzenia Członków zapadają zwykłą większością głosów w trybie głosowania jawnego lub, na żądanie dowolnego uczestnika, tajnego.
 
@@ -174,7 +174,7 @@ i) podejmowanie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu jego maj�
 
 j) podejmowanie uchwał w każdej sprawie wniesionej pod obrady, we wszystkich sprawach nie zastrzeżonych do kompetencji innych władz Stowarzyszenia.
 
-Uchwały o wyborze i odwoływaniu władz stowarzyszenia oraz zmianach statutu wymagają bezwzględnej większości głosów.
+Uchwały o wyborze i odwoływaniu władz Stowarzyszenia oraz zmianach statutu wymagają bezwzględnej większości głosów.
 
 Zarząd jest powołany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zgromadzenia Członków, a także reprezentuje Stowarzyszenie wobec organów administracji i sądów.
 
@@ -224,7 +224,7 @@ e) składanie sprawozdań ze swojej działalności na Walnym Zgromadzeniu Człon
 
 f) zatwierdzanie rocznego sprawozdania finansowego.
 
-W razie gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji uzupełnienie ich składu może nastąpić w drodze kooptacji spośród członków zwyczajnych stowarzyszenia, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu.
+W razie gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji spośród członków zwyczajnych Stowarzyszenia, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu.
 
 
 
