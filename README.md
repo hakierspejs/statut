@@ -1,6 +1,6 @@
-# STATUT STOWARZYSZENIA HAKIERSPEJS ŁÓDŹ
+# Statut stowarzyszenia Hakierspejs Łódź
 
-## ROZDZIAŁ I - POSTANOWIENIA OGÓLNE
+## Rozdział I – Postanowienia ogólne
 
 Stowarzyszenie nosi nazwę “Hakierspejs Łódź”, w skrócie “HSŁ”, w języku angielskim “Hackerspace Łódź”, w dalszych postanowieniach zwane Stowarzyszeniem.
 
@@ -18,7 +18,7 @@ Członkami Stowarzyszenia mogą być obywatele polscy oraz cudzoziemcy, włączn
 
 
 
-## ROZDZIAŁ II - CELE I ŚRODKI DZIAŁANIA
+## Rozdział II – Cele i środki działania
 
 
 
@@ -46,7 +46,7 @@ i) współpracę z krajowymi i zagranicznymi organizacjami.
 
 
 
-### ROZDZIAŁ III - CZŁONKOWIE – PRAWA I OBOWIĄZKI
+### Rozdział III – Członkowie – prawa i obowiązki
 
 
 
@@ -118,7 +118,7 @@ Od uchwały Zarządu w sprawie pozbawienia członkostwa zainteresowanemu przysł
 
 
 
-## ROZDZIAŁ IV - WŁADZE STOWARZYSZENIA
+## Rozdział IV – Władze stowarzyszenia
 
 
 
@@ -230,7 +230,7 @@ W razie gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w czasie trwania k
 
 
 
-## ROZDZIAŁ V - MAJĄTEK I FUNDUSZE
+## Rozdział V – Majątek i fundusze
 
 
 
@@ -268,7 +268,7 @@ b) upoważniony jest każdy członek zarządu działający samodzielnie, jeżeli
 
 
 
-## ROZDZIAŁ VI - POSTANOWIENIA KOŃCOWE
+## Rozdział VI – Postanowienia końcowe
 
 
 
