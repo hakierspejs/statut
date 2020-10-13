@@ -1,4 +1,4 @@
-# Statut stowarzyszenia Hakierspejs Łódź
+# Awesome Statut stowarzyszenia Hakierspejs Łódź
 
 ## Rozdział I – Postanowienia ogólne
 
