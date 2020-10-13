@@ -149,8 +149,10 @@ Walne Zgromadzenie Członków zwyczajne jest zwoływane nie rzadziej niż raz na
 Walne Zgromadzenie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie stowarzyszenia. 
 
 Zarząd z inicjatywy własnej lub na wniosek:
-- Komisji Rewizyjnej,
-- pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych lub co najmniej dziesięciu członków zwyczajnych Stowarzyszenia zwołuje Nadzwyczajne Walne Zebranie członków.
+
+a) Komisji Rewizyjnej,
+
+b) pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych lub co najmniej dziesięciu członków zwyczajnych Stowarzyszenia zwołuje Nadzwyczajne Walne Zebranie członków.
 
 Pierwszy termin Walnego Zgromadzenia Członków nadzwyczajnego powinien być określony na niepoźniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zgromadzenie obraduje nad sprawami, dla których zostało zwołane.
 
