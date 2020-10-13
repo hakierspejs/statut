@@ -152,7 +152,7 @@ Zarząd z inicjatywy własnej lub na wniosek:
 
 a) Komisji Rewizyjnej,
 
-b) pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych lub co najmniej dziesięciu członków zwyczajnych Stowarzyszenia zwołuje Nadzwyczajne Walne Zebranie członków.
+b) co najmniej 1/3 ogólnej liczby członków zwyczajnych lub co najmniej dziesięciu członków zwyczajnych Stowarzyszenia zwołuje Nadzwyczajne Walne Zebranie członków.
 
 Pierwszy termin Walnego Zgromadzenia Członków nadzwyczajnego powinien być określony na niepoźniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zgromadzenie obraduje nad sprawami, dla których zostało zwołane.
 
@@ -281,4 +281,3 @@ Uchwałę w sprawie zmiany Statutu oraz uchwałę o rozwiązaniu Stowarzyszenia 
 Podejmując uchwałę o rozwiązaniu Stowarzyszenia Walne Zgromadzenie Członków określa sposób jego likwidacji oraz przeznaczenie majątku Stowarzyszenia.
 
 W sprawach nie uregulowanych w niniejszym statucie zastosowanie mają przepisy ustawy Prawo o Stowarzyszeniach.
-
