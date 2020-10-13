@@ -16,13 +16,27 @@ Działalność Stowarzyszenia oparta jest przede wszystkim na pracy społecznej 
 
 Członkami Stowarzyszenia mogą być obywatele polscy oraz cudzoziemcy, włącznie z osobami nie mającymi miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej.
 
-
-
 ## Rozdział II – Cele i środki działania
 
+Celem Stowarzyszenia jest:
 
+a) Działalność edukacyjna, naukowa i oświatowo-wychowawcza, wspieranie idei nauki otwartej wobec obywateli i przez obywateli tworzonej.
 
-Celem Stowarzyszenia jest upowszechnianie wiedzy, wspieranie innowacyjności oraz rozwój interdyscyplinarnych badań, prac naukowo-badawczych i działań kulturalnych oraz artystycznych.
+b) Popularyzacja nauki i metody naukowej;
+
+c) Wspieranie postaw obywatelskich, w szczególności wśród młodzieży.
+
+d) Upowszechnianie i ochrona praw człowieka oraz swobód obywatelskich.
+
+e) Upowszechnianie i ochrona wolności osobistej i gospodarczej.
+
+f) Promowanie wolności w zakresach: światopoglądu, wolności do wyboru alternatywnej edukacji, prowadzenia działalności gospodarczej, wolności informacji, wolnego i otwartego oprogramowania, otwartych technologii (ang. open hardware).
+
+g) Podejmowanie działań na rzecz pomocy, rozwoju i aktywizacji oraz wspierania postaw przedsiębiorczych, w szczególności wśród młodzieży, osób niepełnosprawnych i wykluczonych zawodowo.
+
+h) Wspieranie aktywności społecznej i kulturalnej, w szczególności wśród młodzieży.
+
+i) Upowszechnianie kultury fizycznej, sportu i turystyki;
 
 Stowarzyszenie swe cele realizuje poprzez:
 
