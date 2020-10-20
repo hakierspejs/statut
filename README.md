@@ -146,7 +146,7 @@ Aby Walne Zebranie Członków mogło się rozpocząć w pierwszym terminie, wyma
 
 Oba terminy Walnego Zebrania Członków nie mogą być odległe bardziej niż 14 dni kalendarzowych.
 
-Walne Zebranie Członków zwyczajne jest zwoływane nie rzadziej niż raz na dwa lata przez Zarząd Stowarzyszenia w siedzibie Stowarzyszenia. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 14 dni przed pierwszym terminem zebrania.
+Walne Zebranie Członków zwyczajne jest zwoływane nie rzadziej niż raz na dwa lata przez Zarząd Stowarzyszenia w siedzibie Stowarzyszenia. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 14 dni przed pierwszym terminem zebrania. Oba terminy zebrania muszą być oddalone o co najmniej <x> dni robocze/-ych/kalendarzowe/-ych.
 
 Walne Zebranie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie stowarzyszenia. 
 
