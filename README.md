@@ -8,7 +8,7 @@ Terenem działania Stowarzyszenia jest Rzeczpospolita Polska, a siedzibą jest m
 
 Dla realizacji celów statutowych Stowarzyszenie może działać na terenie innych państw z poszanowaniem tamtejszego prawa.
 
-Stowarzyszenie jest zawiązane na czas nieograniczony. Posiada osobowość prawną. Działa na podstawie przepisów ustawy z dnia 7 kwietnia 1989 r. Prawo o Stowarzyszeniach (Dz.U. z 2001, Nr 79, poz. 855 z późn. zm.) oraz niniejszego statutu.
+Stowarzyszenie jest zawiązane na czas nieograniczony. Posiada osobowość prawną. Działa na podstawie przepisów ustawy z dnia 7 kwietnia 1989 r. Prawo o stowarzyszeniach (Dz.U. z 2001, Nr 79, poz. 855 z późn. zm.) oraz niniejszego statutu.
 
 Stowarzyszenie może być członkiem innych krajowych i międzynarodowych organizacji o podobnych celach.
 
