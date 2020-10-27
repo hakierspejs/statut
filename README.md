@@ -248,17 +248,15 @@ b) subwencji, darowizn, spadków i zapisów,
 
 c) wpływów z odpłatnej działalności statutowej,
 
-d) wpływów z działalności gospodarczej,
+d) wpływów z ofiarności publicznej,
 
-e) wpływów z ofiarności publicznej,
+e) dochodów z majątku, odsetek oraz kapitału,
 
-f) dochodów z majątku, odsetek oraz kapitału,
+f) dotacji i kontraktów państwowych,
 
-g) dotacji i kontraktów państwowych,
+g) wpływów z loterii, aukcji i sponsoringu,
 
-h) wpływów z loterii, aukcji i sponsoringu,
-
-i) zbiórek publicznych.
+h) zbiórek publicznych.
 
 Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepisami.
 
