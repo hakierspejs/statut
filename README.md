@@ -282,7 +282,7 @@ Do zawierania umów, udzielania pełnomocnictwa i składania innych oświadczeń
 
 a) upoważnionych jest dowolnych dwóch członków Zarządu działających łącznie,
 
-b) upoważniony jest każdy członek zarządu działający samodzielnie, jeżeli wysokość podejmowanego zobowiązania nie przekracza 128 PLN jednorazowo lub 512 PLN łącznie w czasie trwania jednego miesiąca.
+b) upoważniony jest każdy członek Zarządu działający samodzielnie, jeżeli wysokość podejmowanego zobowiązania oraz suma łącznej wysokości zobowiązań podjętych w przeciągu ostatnich 30 dni nie przekroczą kwot określonych przez Zarząd na drodze uchwały.
 
 
 
