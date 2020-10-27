@@ -128,7 +128,7 @@ b) Zarząd,
 
 c) Komisja Rewizyjna.
 
-Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa dwa lata,
+Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa rok.
 
 Uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum, chyba że dalsze postanowienia statutu stanowią inaczej.
 
@@ -146,7 +146,7 @@ Aby Walne Zebranie Członków mogło się rozpocząć w pierwszym terminie, wyma
 
 Oba terminy Walnego Zebrania Członków nie mogą być odległe bardziej niż 14 dni kalendarzowych.
 
-Walne Zebranie Członków zwyczajne jest zwoływane nie rzadziej niż raz na dwa lata przez Zarząd Stowarzyszenia w siedzibie Stowarzyszenia. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 14 dni przed pierwszym terminem zebrania.
+Walne Zgromadzenie Członków zwyczajne jest zwoływane nie rzadziej niż raz na rok przez Zarząd Stowarzyszenia w siedzibie stowarzyszenia. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 14 dni przed pierwszym terminem zebrania.
 
 Walne Zebranie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie stowarzyszenia. 
 
