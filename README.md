@@ -170,7 +170,7 @@ a) Komisji Rewizyjnej,
 
 b) co najmniej 1/3 ogólnej liczby członków zwyczajnych lub co najmniej dziesięciu członków zwyczajnych Stowarzyszenia.
 
-Pierwszy termin Walnego Zebrania Członków nadzwyczajnego powinien być określony na niepoźniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zebranie obraduje nad sprawami, dla których zostało zwołane.
+Pierwszy termin Walnego Zebrania Członków nadzwyczajnego powinien być określony na niepoźniejszy niż 30 dni kalendarzowych od daty wpływu wniosku do Zarządu. Wniosek powinien zawierać propozycje terminów oraz porządku obrad. Nadzwyczajne Walne Zebranie obraduje nad sprawami, dla których zostało zwołane. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 2 dni robocze przed pierwszym terminem zebrania. Oba terminy zebrania muszą być odległe o minimum dwa dni robocze.
 
 Uchwały Walnego Zebrania Członków zapadają zwykłą większością głosów w trybie głosowania jawnego lub, na żądanie dowolnego uczestnika, tajnego.
 
