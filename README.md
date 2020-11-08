@@ -134,7 +134,7 @@ b) Zarząd,
 
 c) Komisja Rewizyjna.
 
-Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa jeden rok.
+Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa dwa lata.
 
 Uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum, chyba że dalsze postanowienia statutu stanowią inaczej.
 
@@ -150,7 +150,7 @@ a) jego szczegółowej lokalizacji – w przypadku zebrania przeprowadzanego w s
 
 b) sposobie dołączenia do spotkania – w przypadku zebrania przeprowadzanego z wykorzystaniem środków komunikacji elektronicznej.
 
-Walne Zebranie Członków w trybie zwyczajnym zwoływane jest przez Zarząd Stowarzyszenia nie rzadziej, niż raz na rok. Zarząd powiadamia członków Stowarzyszenia o zebraniu z wyprzedzeniem co najmniej 14 dni kalendarzowych. Poczas obrad Walnego Zebrania Członków zwołanego w trybie zwyczajnym nie jest wymagane kworum.
+Walne Zebranie Członków w trybie zwyczajnym zwoływane jest przez Zarząd Stowarzyszenia nie rzadziej, niż raz na dwa lata. Zarząd powiadamia członków Stowarzyszenia o zebraniu z wyprzedzeniem co najmniej 14 dni kalendarzowych. Poczas obrad Walnego Zebrania Członków zwołanego w trybie zwyczajnym nie jest wymagane kworum.
 
 Walne Zebranie Członków w trybie nadzwyczajnym zwoływane jest przez Zarząd Stowarzyszenia w dowolnym terminie z inicjatywy własnej lub na wniosek:
 
@@ -198,7 +198,7 @@ Zarząd składa się z od 3 do 7 osób, w tym z Prezesa, Skarbnika oraz Sekretar
 
 Poszczególne funkcje Zarząd rozdziela wśród swoich członków w drodze jednomyślnej decyzji. W przypadku braku jednomyślności, hierarchia wyznaczana jest odpowiednio na podstawie liczby głosów uzyskanych w wyborach do zarządu, według następującego porządku: Prezes, Skarbnik, Sekretarz, pozostali członkowie. Ewentualną niejednoznaczność wynikającą z równej liczby uzyskanych głosów rozstrzyga się wówczas w drodze losowania.
 
-Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak, niż raz na rok. Posiedzenia Zarządu zwołuje Prezes lub dwóch członków zarządu działających łącznie.
+Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak, niż raz na dwa lata. Posiedzenia Zarządu zwołuje Prezes lub dwóch członków zarządu działających łącznie.
 
 Do kompetencji Zarządu należą:
 
