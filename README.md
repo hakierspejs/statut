@@ -134,7 +134,7 @@ b) Zarząd,
 
 c) Komisja Rewizyjna.
 
-Kadencja wszystkich władz wybieralnych Stowarzyszenia trwa jeden rok.
+Kadencja zarządu i komisji rewizyjnej Stowarzyszenia trwa jeden rok.
 
 Uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum, chyba że dalsze postanowienia statutu stanowią inaczej.
 
