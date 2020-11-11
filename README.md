@@ -266,13 +266,14 @@ Stowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi przepi
 
 Organem kompetentnym w zakresie zarządzania majątkiem Stowarzyszenia jest Zarząd.
 
-Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na kontach Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej trzech miesięcy.
+Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na kontach Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej trzech 
+ęcy.
 
 Do zawierania umów, udzielania pełnomocnictwa i składania innych oświadczeń woli, w szczególności w sprawach majątkowych:
 
 a) upoważnionych jest dowolnych dwóch członków Zarządu działających łącznie,
 
-b) upoważniony jest każdy członek Zarządu działający samodzielnie, jeżeli wysokość podejmowanego zobowiązania oraz suma łącznej wysokości zobowiązań podjętych w przeciągu ostatnich 30 dni nie przekroczą kwot określonych przez Zarząd na drodze uchwały.
+b) upoważniony jest każdy członek zarządu działający samodzielnie, jeżeli wysokość podejmowanego zobowiązania nie przekracza 64 PLN.
 
 ## Rozdział VI – Postanowienia końcowe
 
