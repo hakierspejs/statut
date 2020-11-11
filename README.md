@@ -194,11 +194,9 @@ Uchwały o wyborze i odwoływaniu władz Stowarzyszenia oraz o zmianach statutu 
 
 Zarząd jest powołany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie wobec organów administracji i sądów.
 
-Zarząd składa się z od 3 do 7 osób, w tym z Prezesa, Skarbnika oraz Sekretarza.
+Zarząd składa się z od trzech do siedmiu osób.
 
-Poszczególne funkcje Zarząd rozdziela wśród swoich członków w drodze jednomyślnej decyzji. W przypadku braku jednomyślności, hierarchia wyznaczana jest odpowiednio na podstawie liczby głosów uzyskanych w wyborach do zarządu, według następującego porządku: Prezes, Skarbnik, Sekretarz, pozostali członkowie. Ewentualną niejednoznaczność wynikającą z równej liczby uzyskanych głosów rozstrzyga się wówczas w drodze losowania.
-
-Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak, niż raz na rok. Posiedzenia Zarządu zwołuje Prezes lub dwóch członków zarządu działających łącznie.
+Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak, niż raz na rok. Posiedzenia Zarządu zwołuje dwóch członków zarządu działających łącznie.
 
 Do kompetencji Zarządu należą:
 
@@ -224,7 +222,7 @@ j) sporządzanie rocznego sprawozdania finansowego.
 
 Komisja Rewizyjna powoływana jest do sprawowania kontroli nad działalnością Stowarzyszenia.
 
-Komisja Rewizyjna składa się z od 3 do 5 osób, w tym z Przewodniczącego, Zastępcy oraz Sekretarza. Hierarchia ustalana jest na zasadach identycznych, jak dla Zarządu, przy czym w przypadku ustalania jej na podstawie liczby głosów stosuje się porządek: Przewodniczący, Zastępca Przewodniczącego, Sekretarz, pozostali członkowie.
+Komisja Rewizyjna składa się z od trzech do pięciu osób.
 
 Do kompetencji Komisji Rewizyjnej należy:
 
