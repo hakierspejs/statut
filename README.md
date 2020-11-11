@@ -194,7 +194,7 @@ Uchwały o wyborze i odwoływaniu władz Stowarzyszenia oraz o zmianach statutu 
 
 Zarząd jest powołany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie wobec organów administracji i sądów.
 
-Zarząd składa się z trzech do siedmiu osób.
+Zarząd składa się z od trzech do siedmiu osób.
 
 Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak, niż raz na rok. Posiedzenia Zarządu zwołuje dwóch członków zarządu działających łącznie.
 
@@ -222,7 +222,7 @@ j) sporządzanie rocznego sprawozdania finansowego.
 
 Komisja Rewizyjna powoływana jest do sprawowania kontroli nad działalnością Stowarzyszenia.
 
-Komisja Rewizyjna składa się z trzech do pięciu osób.
+Komisja Rewizyjna składa się z od trzech do pięciu osób.
 
 Do kompetencji Komisji Rewizyjnej należy:
 
