@@ -144,9 +144,9 @@ a) z głosem stanowiącym – członkowie zwyczajni,
 
 b) z głosem doradczym – członkowie wspierający oraz zaproszeni goście.
 
-Walne Zebranie Członków jest zwoływane w trybie zwyczajnym lub nadzwyczajnym. Zebranie odbywa się osobiście lub zostaje przeprowadzone z wykorzystaniem środków komunikacji elektronicznej. Zarząd powiadamia członków Stowarzyszenia za pośrednictwem poczty elektronicznej, w terminie uzależnionym od trybu organizacji zebrania, o terminie zebrania, planowanym porządku obrad oraz:
+Walne Zebranie Członków jest zwoływane w trybie zwyczajnym lub nadzwyczajnym. Zebranie odbywa się w siedzibie Stowarzyszenia lub zostaje przeprowadzone z wykorzystaniem środków komunikacji elektronicznej. Zarząd powiadamia członków Stowarzyszenia za pośrednictwem poczty elektronicznej, w terminie uzależnionym od trybu organizacji zebrania, o terminie zebrania, planowanym porządku obrad oraz:
 
-a) jego szczegółowej lokalizacji – w przypadku zebrania przeprowadzanego osobiście,
+a) jego szczegółowej lokalizacji – w przypadku zebrania przeprowadzanego w siedzibie Stowarzyszenia,
 
 b) sposobie dołączenia do spotkania – w przypadku zebrania przeprowadzanego z wykorzystaniem środków komunikacji elektronicznej.
 
