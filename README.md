@@ -144,11 +144,13 @@ a) z głosem stanowiącym – członkowie zwyczajni,
 
 b) z głosem doradczym – członkowie wspierający oraz zaproszeni goście.
 
-Walne Zebranie Członków jest zwoływane w trybie zwyczajnym lub nadzwyczajnym. Zebranie odbywa się w mieście Łódź lub zostaje przeprowadzone z wykorzystaniem środków komunikacji elektronicznej. Zarząd powiadamia członków Stowarzyszenia za pośrednictwem poczty elektronicznej, w terminie uzależnionym od trybu organizacji zebrania, o terminie zebrania, planowanym porządku obrad oraz:
+Walne Zebranie Członków jest zwoływane w trybie zwyczajnym lub nadzwyczajnym. Zebranie odbywa się w formie bezpośredniego spotkania lub zostaje przeprowadzone z wykorzystaniem środków komunikacji elektronicznej. Zarząd powiadamia członków Stowarzyszenia za pośrednictwem poczty elektronicznej, w terminie uzależnionym od trybu organizacji zebrania, o terminie zebrania, planowanym porządku obrad oraz:
 
-a) jego szczegółowej lokalizacji – w przypadku zebrania przeprowadzanego w mieście Łódź,
+a) jego szczegółowej lokalizacji – w przypadku zebrania przeprowadzanego w formie bezpośredniego spotkania,
 
 b) sposobie dołączenia do spotkania – w przypadku zebrania przeprowadzanego z wykorzystaniem środków komunikacji elektronicznej.
+
+Zebranie przeprowadzane w formie bezpośredniego spotkania musi się odbyć w granicach miasta Łodzi.
 
 Walne Zebranie Członków w trybie zwyczajnym zwoływane jest przez Zarząd Stowarzyszenia nie rzadziej, niż raz na rok. Zarząd powiadamia członków Stowarzyszenia o zebraniu z wyprzedzeniem co najmniej 14 dni kalendarzowych. Poczas obrad Walnego Zebrania Członków zwołanego w trybie zwyczajnym nie jest wymagane kworum.
 
