@@ -248,11 +248,11 @@ c) Komisja Rewizyjna.
 
 6) zatwierdzanie rocznego sprawozdania finansowego.
 
-§ 24. W razie, gdy skład Zarządu lub Komisji Rewizyjnej ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji spośród członków zwyczajnych Stowarzyszenia, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej, niż połowę składu organu.
+§ 23. W razie, gdy skład Zarządu lub Komisji Rewizyjnej ulegnie zmniejszeniu w czasie trwania kadencji, uzupełnienie ich składu może nastąpić w drodze kooptacji spośród członków zwyczajnych Stowarzyszenia, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej, niż połowę składu organu.
 
 ## Rozdział V – Majątek i fundusze
 
-§ 25. Majątek Stowarzyszenia powstaje z:
+§ 24. Majątek Stowarzyszenia powstaje z:
 
 1) składek członkowskich,
 
@@ -270,7 +270,7 @@ c) Komisja Rewizyjna.
 
 8) zbiórek publicznych.
 
-§ 26. 1. Organem kompetentnym w zakresie zarządzania majątkiem Stowarzyszenia jest Zarząd.
+§ 25. 1. Organem kompetentnym w zakresie zarządzania majątkiem Stowarzyszenia jest Zarząd.
 
 2. Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na kontach Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej trzech miesięcy.
 
@@ -282,8 +282,8 @@ c) Komisja Rewizyjna.
 
 ## Rozdział VI – Postanowienia końcowe
 
-§ 27. 1. Uchwałę w sprawie zmiany Statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie Członków kwalifikowaną większością głosów (2/3) przy obecności co najmniej połowy łącznej liczby członków Stowarzyszenia uprawnionych do głosowania, stanowiących kworum.
+§ 26. 1. Uchwałę w sprawie zmiany Statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie Członków kwalifikowaną większością głosów (2/3) przy obecności co najmniej połowy łącznej liczby członków Stowarzyszenia uprawnionych do głosowania, stanowiących kworum.
 
 2. Podejmując uchwałę o rozwiązaniu Stowarzyszenia, Walne Zebranie Członków określa sposób jego likwidacji oraz przeznaczenie majątku Stowarzyszenia.
 
-§ 28. W sprawach nieuregulowanych w niniejszym statucie zastosowanie mają przepisy ustawy Prawo o stowarzyszeniach.
+§ 27. W sprawach nieuregulowanych w niniejszym statucie zastosowanie mają przepisy ustawy Prawo o stowarzyszeniach.
