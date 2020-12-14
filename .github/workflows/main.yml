@@ -1,4 +1,5 @@
 name: CI
+on: push
 jobs:
   maybe_update_pdf:
     runs-on: ubuntu-latest
