@@ -208,7 +208,7 @@ c) Komisja Rewizyjna.
 
 3. Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak, niż raz na dwa lata. Posiedzenia Zarządu zwołuje dwóch członków zarządu działających łącznie.
 
-3a. Członkowie Zarządu zwołujący posiedzenie powiadamiają wszystkich pozostałych członków Zarządu za pośrednictwem poczty elektronicznej, z wyprzedzeniem przynajmniej 7 dni roboczych, o:
+3a. Członkowie Zarządu zwołujący posiedzenie powiadamiają wszystkich pozostałych członków Zarządu za pośrednictwem poczty elektronicznej, z wyprzedzeniem przynajmniej 14 dni roboczych, o:
 
 1) terminie posiedzenia,
 
@@ -244,7 +244,7 @@ c) Komisja Rewizyjna.
 
 2a. Posiedzenia Komisji Rewizyjnej odbywają się w miarę potrzeb, nie rzadziej jednak, niż raz do roku. Posiedzenia Komisji Rewizyjnej zwołuje dwóch członków Komisji działających łącznie.
 
-2b. Członkowie Komisji Rewizyjnej zwołujący posiedzenie powiadamiają wszystkich pozostałych członków Komisji Rewizyjnej za pośrednictwem poczty elektronicznej, z wyprzedzeniem przynajmniej 7 dni roboczych, o:
+2b. Członkowie Komisji Rewizyjnej zwołujący posiedzenie powiadamiają wszystkich pozostałych członków Komisji Rewizyjnej za pośrednictwem poczty elektronicznej, z wyprzedzeniem przynajmniej 14 dni roboczych, o:
 
 1) terminie posiedzenia,
 
