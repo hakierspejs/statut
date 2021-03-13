@@ -2,7 +2,7 @@
 
 ## Rozdział I – Postanowienia ogólne
 
-§ 1. Stowarzyszenie nosi nazwę „Stowarzyszenie Hakierspejs Łódź”, w dalszych postanowieniach zwane Stowarzyszeniem.
+§ 1. Stowarzyszenie, w dalszych postanowieniach zwane Stowarzyszeniem, nosi nazwę „Stowarzyszenie Hakierspejs Łódź”.
 
 § 2. 1. Terenem działania Stowarzyszenia jest Rzeczpospolita Polska, a jego siedzibą jest miasto Łódź.
 
@@ -32,7 +32,7 @@
 
 5) upowszechnianie i ochrona wolności osobistej i gospodarczej,
 
-6) promowanie wolności w zakresach: światopoglądu, wolności do wyboru alternatywnej edukacji, prowadzenia działalności gospodarczej, wolności informacji, wolnego i otwartego oprogramowania oraz otwartych technologii (ang. open hardware),
+6) promowanie wolności w zakresach: światopoglądu, wolności do wyboru alternatywnej edukacji, prowadzenia działalności gospodarczej, wolności informacji, wolnego i otwartego oprogramowania oraz otwartych technologii (ang. _open hardware_),
 
 7) podejmowanie działań na rzecz pomocy, rozwoju i aktywizacji oraz wspierania postaw przedsiębiorczych, w szczególności wśród młodzieży, osób niepełnosprawnych i wykluczonych zawodowo,
 
@@ -208,6 +208,14 @@ c) Komisja Rewizyjna.
 
 3. Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak, niż raz na dwa lata. Posiedzenia Zarządu zwołuje dwóch członków zarządu działających łącznie.
 
+3a. Członkowie Zarządu zwołujący posiedzenie powiadamiają wszystkich pozostałych członków Zarządu za pośrednictwem poczty elektronicznej, z wyprzedzeniem przynajmniej 14 dni kalendarzowych, o:
+
+1) terminie posiedzenia,
+
+2) planowanym porządku obrad,
+
+3) miejscu organizacji posiedzenia lub sposobie dołączenia do posiedzenia organizowanego z wykorzystaniem środków komunikacji elektronicznej.
+
 4. Do kompetencji Zarządu należą:
 
 1) realizacja celów Stowarzyszenia,
@@ -233,6 +241,16 @@ c) Komisja Rewizyjna.
 § 22. 1. Komisja Rewizyjna powoływana jest do sprawowania kontroli nad działalnością Stowarzyszenia.
 
 2. Komisja Rewizyjna składa się z od trzech do pięciu osób.
+
+2a. Posiedzenia Komisji Rewizyjnej odbywają się w miarę potrzeb, nie rzadziej jednak, niż raz do roku. Posiedzenia Komisji Rewizyjnej zwołuje dwóch członków Komisji działających łącznie.
+
+2b. Członkowie Komisji Rewizyjnej zwołujący posiedzenie powiadamiają wszystkich pozostałych członków Komisji Rewizyjnej za pośrednictwem poczty elektronicznej, z wyprzedzeniem przynajmniej 14 dni kalendarzowych, o:
+
+1) terminie posiedzenia,
+
+2) planowanym porządku obrad,
+
+3) miejscu organizacji posiedzenia lub sposobie dołączenia do posiedzenia organizowanego z wykorzystaniem środków komunikacji elektronicznej.
 
 3. Do kompetencji Komisji Rewizyjnej należy:
 
