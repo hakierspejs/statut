@@ -296,7 +296,7 @@ c) Komisja Rewizyjna.
 
 1) upoważnionych jest dowolnych dwóch członków Zarządu działających łącznie,
 
-2) upoważniony jest każdy członek Zarządu działający samodzielnie, jeżeli wysokość podejmowanego zobowiązania nie przekracza 128 PLN.
+2) upoważniony jest każdy członek Zarządu działający samodzielnie, jeżeli wysokość podejmowanego zobowiązania nie przekracza 512 PLN.
 
 ## Rozdział VI – Postanowienia końcowe
 
