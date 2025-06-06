@@ -6,7 +6,8 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: regenerate pdf
-      run: docker-compose up
-    - uses: stefanzweifel/git-auto-commit-action@v4.2.0
+      run: docker compose up
+    - uses: stefanzweifel/git-auto-commit-action@v5.2.0
       with:
         commit_message: Autoupdate PDF
+        commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
